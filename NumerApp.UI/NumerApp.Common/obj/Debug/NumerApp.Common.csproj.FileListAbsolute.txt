@@ -1,0 +1,6 @@
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Common\bin\Debug\NumerApp.Common.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Common\bin\Debug\NumerApp.Common.pdb
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Common\obj\Debug\NumerApp.Common.csprojAssemblyReference.cache
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Common\obj\Debug\NumerApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Common\obj\Debug\NumerApp.Common.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Common\obj\Debug\NumerApp.Common.pdb

@@ -1,0 +1,6 @@
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Queries\bin\Debug\NumerApp.Queries.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Queries\bin\Debug\NumerApp.Queries.pdb
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Queries\obj\Debug\NumerApp.Queries.csprojAssemblyReference.cache
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Queries\obj\Debug\NumerApp.Queries.csproj.CoreCompileInputs.cache
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Queries\obj\Debug\NumerApp.Queries.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.Queries\obj\Debug\NumerApp.Queries.pdb

@@ -1,0 +1,14 @@
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\NumerApp.DataAccess.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\NumerApp.DataAccess.pdb
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\obj\Debug\NumerApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\obj\Debug\NumerApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\obj\Debug\NumerApp.DataAccess.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\obj\Debug\NumerApp.DataAccess.pdb
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\NumerApp.DataAccess.dll.config
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\Dapper.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\NumerApp.Entities.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\NumerApp.Queries.dll
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\NumerApp.Entities.pdb
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\NumerApp.Queries.pdb
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\bin\Debug\Dapper.xml
+C:\Users\Victor Delgado\Documents\Documentos\NumerApp\NumerApp.UI\NumerApp.DataAccess\obj\Debug\NumerApp.DataAccess.csproj.CopyComplete
